@@ -4,7 +4,7 @@ body
     padding: 0;
     box-sizing: border;
 }
-h2 
+.social 
 {
     margin: 0;
     padding: 8px;
@@ -12,3 +12,24 @@ h2
     color: aquamarine;
     background-color: black;
 }
+
+.box-1 {
+    width: 350px;
+    margin: 20px 0 0 10px;
+    border: 1px solid #9e9e9e;
+    padding: 8px;
+    border-radius: 5px;
+    background-color: #9a94940a;
+}
+
+.box-1 h2 
+{
+    margin: 0;
+   text-align: center;
+}
+.box-1 p,
+.box-1 button
+{
+    margin: 5px 0;
+}
+
