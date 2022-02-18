@@ -15,11 +15,12 @@ body
 
 .box-1 {
     width: 350px;
-    margin: 20px 0 0 10px;
+    margin: 20px 335px 0 10px;
     border: 1px solid #9e9e9e;
     padding: 8px;
     border-radius: 5px;
     background-color: #9a94940a;
+    float: left;
 }
 
 .box-1 h2 
@@ -33,3 +34,24 @@ body
     margin: 5px 0;
 }
 
+.box-2 
+{
+    width: 350px;
+    margin: 20px 0 0 10px;
+    border: 1px solid #9e9e9e;
+    padding: 8px;
+    border-radius: 5px;
+    background-color: #9a94940a;
+    overflow: hidden;
+}
+
+.box-2 h2 
+{
+    margin: 0;
+   text-align: center;
+}
+.box-2 p,
+.box-2 button
+{
+    margin: 5px 0;
+}
